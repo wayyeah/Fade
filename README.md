@@ -4,4 +4,4 @@ Fade: Fast and Deployable 3D Object Detection for Autonomous Driving
 ## We deployed our Fade object detection algorithm on a car equipped with an OS-128 LiDAR and Jetson Orin, and achieved autonomous driving of the car.
 ![image](https://github.com/wayyeah/Fade/blob/master/car.png?raw=true)
 
-Video: [[https://github-production-user-asset-6210df.s3.amazonaws.com/53206282/418599769-da2e1cc8-3358-4993-821c-f165475d6ea8.mp4](https://github-production-user-asset-6210df.s3.amazonaws.com/53206282/418599769-da2e1cc8-3358-4993-821c-f165475d6ea8.mp4](https://github.com/wayyeah/Fade/blob/master/AutonomousDriving.mp4))
+Video: https://github.com/wayyeah/Fade/blob/master/AutonomousDriving.mp4
