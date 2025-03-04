@@ -1,9 +1,9 @@
 # Fade
 Fade: Fast and Deployable 3D Object Detection for Autonomous Driving
 ### KITTI 3D Object Detection Baseline
-|                                              | Car_R40@0.7 Easy| Car_R40@0.7 Mod. | Car_R40@0.7 Hard  | download | 
-|---------------------------------------------|:-------:|:-------:|:-------:|:---------:|
-| Fade | 90.92 | 82.00 | 77.49 | [model-50M] | 
+|                                              | Car_R40@0.7 Easy| Car_R40@0.7 Mod. | Car_R40@0.7 Hard  | download | download(TensorRT) | 
+|---------------------------------------------|:-------:|:-------:|:-------:|:---------:|:---------:|
+| Fade | 90.92 | 82.00 | 77.49 | [model-50M](https://drive.google.com/file/d/1NlOdfU745UfT0ptywPhEhBhevAPdzib0/view?usp=sharing) |  [model-25M](https://drive.google.com/file/d/1Zsb3n7xR25IWWENYK1Igff6fNzSQOPgP/view?usp=sharing) | 
 ## Now, the code of Fade-TRT has been uploaded, the training code will be released in this repo when the paper has been accepted.
 ## We deployed our Fade object detection algorithm on a car equipped with an OS-128 LiDAR and Jetson Orin, and achieved autonomous driving of the car.
 
