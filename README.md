@@ -5,6 +5,13 @@ Fade: Fast and Deployable 3D Object Detection for Autonomous Driving
 |---------------------------------------------|:-------:|:-------:|:-------:|:---------:|:---------:|
 | Fade | 90.92 | 82.00 | 77.49 | [model-50M](https://drive.google.com/file/d/1NlOdfU745UfT0ptywPhEhBhevAPdzib0/view?usp=sharing) |  [model-25M](https://drive.google.com/file/d/1Zsb3n7xR25IWWENYK1Igff6fNzSQOPgP/view?usp=sharing) | 
 ## Now, the code of Fade-TRT has been uploaded, the training code will be released in this repo when the paper has been accepted.
+### How to use
+1. cd fade_trt
+2. mkdir build
+3. cd build
+4. cmake .. & make
+5. ./demo kitti
+
 ## We deployed our Fade object detection algorithm on a car equipped with an OS-128 LiDAR and Jetson Orin, and achieved autonomous driving of the car.
 
 <table>
