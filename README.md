@@ -10,6 +10,7 @@ A. prepare environment
   1. install CUDA>=11.4
   2. install TensorRT>8.5.x.x and modified TensorRT Path in fade_trt/CMakeLists.txt
   3. modified path in fade_trt/main.cpp Line 137 model_path and Line 138 path
+     
 B. compile and run
   1. ```cd fade_trt```
   2. ```mkdir build & cd build ```
