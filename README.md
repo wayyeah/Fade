@@ -1,5 +1,5 @@
-# Fade
-Fade: Fast and Deployable 3D Object Detection for Autonomous Driving
+# Fade: Fast and Deployable 3D Object Detection for Autonomous Driving
+
 
 ## Visualization of real traffic scenario testing
 
