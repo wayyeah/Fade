@@ -17,6 +17,11 @@ B. compile and run
   3. ```cmake .. & make ```
   4. ``` ./demo kitti ```
 
+## Visualization of real traffic scenario testing
+
+![detect](https://github.com/user-attachments/assets/9874cf13-7913-4cab-9663-07d36750e8ca)
+Video: https://github.com/wayyeah/Fade/blob/master/detect.mp4
+
 ## We deployed our Fade object detection algorithm on a car equipped with an OS-128 LiDAR and Jetson Orin, and achieved autonomous driving of the car.
 
 <table>
