@@ -1,5 +1,11 @@
 # Fade
 Fade: Fast and Deployable 3D Object Detection for Autonomous Driving
+
+## Visualization of real traffic scenario testing
+
+![detect](https://github.com/user-attachments/assets/9874cf13-7913-4cab-9663-07d36750e8ca)
+Video: https://github.com/wayyeah/Fade/blob/master/detect.mp4
+
 ### KITTI 3D Object Detection Baseline
 |                                             | FPS (RTX3090) | FPS (Jetson Orin)| Car_R40@0.7 Easy| Car_R40@0.7 Mod. | Car_R40@0.7 Hard  | download | download(TensorRT) | 
 |---------------------------------------------|:-------:|:-------:|:-------:|:-------:|:-------:|:---------:|:---------:|
@@ -17,10 +23,7 @@ B. compile and run
   3. ```cmake .. & make ```
   4. ``` ./demo kitti ```
 
-## Visualization of real traffic scenario testing
 
-![detect](https://github.com/user-attachments/assets/9874cf13-7913-4cab-9663-07d36750e8ca)
-Video: https://github.com/wayyeah/Fade/blob/master/detect.mp4
 
 ## We deployed our Fade object detection algorithm on a car equipped with an OS-128 LiDAR and Jetson Orin, and achieved autonomous driving of the car.
 
