@@ -1,4 +1,4 @@
-# Fade: Fast and Deployable 3D Object Detection for Autonomous Driving
+# Fade 3D: Fast and Deployable 3D Object Detection for Autonomous Driving(TITS 2025)
 
 
 ## Visualization of real traffic scenario testing
