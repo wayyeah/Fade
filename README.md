@@ -10,8 +10,12 @@ Video: https://github.com/wayyeah/Fade/blob/master/detect.mp4
 |                                             | FPS (RTX3090) | FPS (Jetson Orin)| Car_R40@0.7 Easy| Car_R40@0.7 Mod. | Car_R40@0.7 Hard  | download | download(TensorRT) | 
 |---------------------------------------------|:-------:|:-------:|:-------:|:-------:|:-------:|:---------:|:---------:|
 | Fade | 51.5 | 12.4 |90.92 | 82.00 | 77.49 | [model-50M](https://drive.google.com/file/d/1NlOdfU745UfT0ptywPhEhBhevAPdzib0/view?usp=sharing) |  [model-25M](https://drive.google.com/file/d/1Zsb3n7xR25IWWENYK1Igff6fNzSQOPgP/view?usp=sharing) | 
-## Now, the code of Fade-TRT has been uploaded, the training code will be released in this repo when the paper has been accepted.
-### How to use
+
+# Getting Started
+Please refer to [GETTING_STARTED.md]() to learn more usage about this project.
+
+
+### TensorRT How to use
 A. prepare environment
   1. install CUDA>=11.4
   2. install TensorRT>8.5.x.x and modified TensorRT Path in fade_trt/CMakeLists.txt
