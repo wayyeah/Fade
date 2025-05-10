@@ -12,7 +12,7 @@ Video: https://github.com/wayyeah/Fade/blob/master/detect.mp4
 | Fade | 51.5 | 12.4 |90.92 | 82.00 | 77.49 | [model-50M](https://drive.google.com/file/d/1NlOdfU745UfT0ptywPhEhBhevAPdzib0/view?usp=sharing) |  [model-25M](https://drive.google.com/file/d/1Zsb3n7xR25IWWENYK1Igff6fNzSQOPgP/view?usp=sharing) | 
 
 # Getting Started
-Please refer to [GETTING_STARTED.md]() to learn more usage about this project.
+Please refer to [GETTING_STARTED.md](https://github.com/wayyeah/Fade/blob/master/docs/GETTING_STARTED.md) to learn more usage about this project.
 
 
 ### TensorRT How to use
